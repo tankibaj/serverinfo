@@ -12,7 +12,7 @@ A Shell Script to view Network, Disk Usage, Uptime, Load Average and RAM Usage i
 #### Install
 `./serverinfo.sh -i `
 
-#### Now run serverinfo command from anywhere using any user account simply
+#### Now run serverinfo command from anywhere using any user account simply as:
 `serverinfo`
 
 # Without Install Run Script
